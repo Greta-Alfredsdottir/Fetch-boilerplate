@@ -1,0 +1,9 @@
+// her laver vi styling til siden
+@use 'variables.scss';
+
+.mainHeader{
+    background-color: variables.$light;
+}
+body{
+    background-color: variables.$green;
+}
